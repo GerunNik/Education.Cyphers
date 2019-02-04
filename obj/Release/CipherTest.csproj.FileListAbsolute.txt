@@ -1,0 +1,10 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\bin\Release\CypherTest.exe.config
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\bin\Release\CypherTest.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\bin\Release\CypherTest.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\obj\Release\CipherTest.Form1.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\obj\Release\CypherTest.Properties.Resources.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\obj\Release\CipherTest.csproj.GenerateResource.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\obj\Release\CipherTest.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\obj\Release\CypherTest.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\obj\Release\CypherTest.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CypherTest\obj\Release\CipherTest.csprojAssemblyReference.cache
